@@ -32,13 +32,13 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@aws-sdk/client-sts": "^3.208.0",
+    "@aws-sdk/client-sts": "^3.335.1",
     "@aws-sdk/credential-provider-node": "^3.208.0",
-    "@aws-sdk/credential-providers": "^3.208.0",
+    "@aws-sdk/credential-providers": "^3.347.1",
     "@aws-sdk/types": "^3.208.0",
     "@aws-sdk/util-arn-parser": "^3.208.0",
-    "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^"
+    "@backstage/config": "0.1.1",
+    "@backstage/errors": "0.1.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
