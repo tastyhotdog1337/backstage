@@ -35,13 +35,13 @@
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/integration-react": "workspace:^",
+    "@backstage/integration": "0.1.0",
+    "@backstage/integration-react": "0.1.1",
     "@backstage/plugin-catalog-common": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
+    "@backstage/plugin-catalog-react": "0.0.1",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.57",
@@ -51,7 +51,7 @@
     "lodash": "^4.17.21",
     "react-hook-form": "^7.12.2",
     "react-use": "^17.2.4",
-    "yaml": "^2.0.0"
+    "yaml": "^2.2.2"
   },
   "peerDependencies": {
     "@types/react": "^16.13.1 || ^17.0.0",
