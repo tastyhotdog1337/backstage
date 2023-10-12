@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@backstage/plugin-catalog": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^"
+    "@backstage/plugin-catalog-react": "0.0.1"
   },
   "devDependencies": {
     "@types/react": "^16.13.1 || ^17.0.0"
