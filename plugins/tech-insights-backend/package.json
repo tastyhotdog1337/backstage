@@ -33,14 +33,14 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-tasks": "workspace:^",
+    "@backstage/backend-common": "0.1.1",
+    "@backstage/backend-tasks": "0.1.0",
     "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-tech-insights-common": "workspace:^",
-    "@backstage/plugin-tech-insights-node": "workspace:^",
+    "@backstage/plugin-tech-insights-node": "0.3.8",
     "@backstage/types": "workspace:^",
     "@types/express": "^4.17.6",
     "@types/luxon": "^3.0.0",
@@ -49,7 +49,7 @@
     "knex": "^2.0.0",
     "lodash": "^4.17.21",
     "luxon": "^3.0.0",
-    "semver": "^7.3.5",
+    "semver": "^7.5.2",
     "uuid": "^8.3.2",
     "winston": "^3.2.1",
     "yn": "^4.0.0"
