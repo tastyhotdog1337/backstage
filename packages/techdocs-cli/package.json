@@ -60,8 +60,8 @@
     "ext": "ts"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/backend-common": "0.1.1",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/cli-common": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-techdocs-node": "workspace:^",
