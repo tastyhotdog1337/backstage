@@ -22,7 +22,7 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/plugin-scaffolder-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "winston": "^3.2.1",
