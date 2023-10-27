@@ -37,7 +37,7 @@
     "@backstage/core-app-api": "workspace:^",
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/integration-react": "workspace:^",
+    "@backstage/integration-react": "0.1.1",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/test-utils": "workspace:^",
     "@backstage/theme": "workspace:^",
