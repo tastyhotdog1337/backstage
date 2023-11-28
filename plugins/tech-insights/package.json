@@ -29,9 +29,9 @@
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
     "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
+    "@backstage/plugin-catalog-react": "0.0.1",
     "@backstage/plugin-tech-insights-common": "workspace:^",
     "@backstage/theme": "workspace:^",
     "@backstage/types": "workspace:^",
