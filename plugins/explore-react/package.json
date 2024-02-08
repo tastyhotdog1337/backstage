@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/plugin-explore-common": "workspace:^"
+    "@backstage/plugin-explore-common": "0.0.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
