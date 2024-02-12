@@ -40,7 +40,7 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.1.0",
     "@backstage/plugin-kubernetes-common": "workspace:^",
     "@google-cloud/container": "^4.0.0",
     "@jest-mock/express": "^2.0.1",
