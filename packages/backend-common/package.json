@@ -46,9 +46,9 @@
     "test:kubernetes": "backstage-cli package test -t KubernetesContainerRunner --no-watch"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
+    "@backstage/backend-app-api": "0.2.4",
     "@backstage/backend-dev-utils": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.2.0",
     "@backstage/cli-common": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/config-loader": "workspace:^",
@@ -66,7 +66,7 @@
     "@types/express": "^4.17.6",
     "@types/luxon": "^3.0.0",
     "@types/webpack-env": "^1.15.2",
-    "archiver": "^5.0.2",
+    "archiver": "^7.0.0",
     "aws-sdk": "^2.840.0",
     "base64-stream": "^1.0.0",
     "compression": "^1.7.4",
