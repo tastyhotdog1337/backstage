@@ -33,10 +33,10 @@
   },
   "dependencies": {
     "@backstage/backend-tasks": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "0.1.1",
     "@backstage/types": "workspace:^",
     "@types/ldapjs": "^2.2.0",
     "ldapjs": "^2.2.0",
