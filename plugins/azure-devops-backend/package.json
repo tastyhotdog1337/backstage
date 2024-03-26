@@ -22,12 +22,12 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.1.1",
     "@backstage/config": "workspace:^",
-    "@backstage/plugin-azure-devops-common": "workspace:^",
+    "@backstage/plugin-azure-devops-common": "0.0.1",
     "@types/express": "^4.17.6",
     "azure-devops-node-api": "^11.0.1",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "express-promise-router": "^4.1.0",
     "mime-types": "^2.1.27",
     "p-limit": "^3.1.0",
