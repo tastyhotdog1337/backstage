@@ -23,17 +23,17 @@
   },
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/plugin-catalog-react": "workspace:^",
+    "@backstage/integration": "0.1.0",
+    "@backstage/plugin-catalog-react": "0.0.1",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "luxon": "^3.0.0",
-    "octokit": "^2.0.4",
+    "octokit": "^3.1.2",
     "react-use": "^17.4.0"
   },
   "peerDependencies": {
