@@ -39,7 +39,7 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.208.0",
+    "@aws-sdk/client-s3": "^3.529.0",
     "@aws-sdk/credential-providers": "^3.208.0",
     "@aws-sdk/lib-storage": "^3.208.0",
     "@aws-sdk/types": "^3.208.0",
@@ -50,7 +50,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/integration-aws-node": "workspace:^",
+    "@backstage/integration-aws-node": "0.1.0",
     "@backstage/plugin-search-common": "workspace:^",
     "@google-cloud/storage": "^6.0.0",
     "@trendyol-js/openstack-swift-sdk": "^0.0.5",
