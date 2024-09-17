@@ -29,7 +29,7 @@
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-entity-feedback-common": "workspace:^",
     "@types/express": "*",
-    "express": "^4.18.1",
+    "express": "^4.20.0",
     "express-promise-router": "^4.1.0",
     "knex": "^2.0.0",
     "node-fetch": "^2.6.7",
