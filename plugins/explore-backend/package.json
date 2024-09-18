@@ -27,7 +27,7 @@
     "@backstage/plugin-explore-common": "workspace:^",
     "@backstage/plugin-search-common": "workspace:^",
     "@types/express": "*",
-    "express": "^4.18.1",
+    "express": "^4.20.0",
     "express-promise-router": "^4.1.0",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
