@@ -26,7 +26,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@types/express": "*",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "jose": "^4.6.0",
     "node-fetch": "^2.6.7",
     "winston": "^3.2.1"
