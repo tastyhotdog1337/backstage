@@ -32,7 +32,7 @@
     "@backstage/plugin-permission-node": "workspace:^",
     "@backstage/plugin-playlist-common": "workspace:^",
     "@types/express": "*",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-promise-router": "^4.1.0",
     "knex": "^2.0.0",
     "node-fetch": "^2.6.7",
