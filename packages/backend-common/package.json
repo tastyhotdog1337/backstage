@@ -46,7 +46,7 @@
     "test:kubernetes": "backstage-cli package test -t KubernetesContainerRunner --no-watch"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
+    "@backstage/backend-app-api": "0.1.0",
     "@backstage/backend-dev-utils": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/cli-common": "workspace:^",
