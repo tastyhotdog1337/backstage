@@ -38,8 +38,8 @@
     "url": "https://github.com/backstage/backstage/issues"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
-    "@kubernetes/client-node": "0.18.1"
+    "@backstage/catalog-model": "0.1.1",
+    "@kubernetes/client-node": "0.22.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
