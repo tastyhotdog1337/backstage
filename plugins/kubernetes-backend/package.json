@@ -37,7 +37,7 @@
     "@azure/identity": "^2.0.4",
     "@backstage/backend-common": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
