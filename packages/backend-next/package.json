@@ -27,9 +27,9 @@
   "dependencies": {
     "@backstage/backend-defaults": "workspace:^",
     "@backstage/plugin-app-backend": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
-    "@backstage/plugin-scaffolder-backend": "workspace:^",
-    "@backstage/plugin-todo-backend": "workspace:^"
+    "@backstage/plugin-catalog-backend": "0.1.1",
+    "@backstage/plugin-scaffolder-backend": "1.4.0",
+    "@backstage/plugin-todo-backend": "0.1.0"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
