@@ -34,9 +34,9 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/config": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/types": "0.1.1",
     "apollo-server": "^3.0.0",
     "graphql": "^16.0.0",
     "graphql-modules": "^2.0.0",
