@@ -25,11 +25,11 @@
     "clean": "backstage-cli package clean"
   },
   "dependencies": {
-    "@backstage/backend-defaults": "workspace:^",
-    "@backstage/plugin-app-backend": "workspace:^",
+    "@backstage/backend-defaults": "0.12.2",
+    "@backstage/plugin-app-backend": "0.1.1",
     "@backstage/plugin-catalog-backend": "workspace:^",
-    "@backstage/plugin-scaffolder-backend": "workspace:^",
-    "@backstage/plugin-todo-backend": "workspace:^"
+    "@backstage/plugin-scaffolder-backend": "2.2.2",
+    "@backstage/plugin-todo-backend": "0.1.7"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
